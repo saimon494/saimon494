@@ -5,7 +5,7 @@
 * Город - Москва
 * Опыт разработки на Java - 1 год
 ## Основные технологии:
-![Java](https://img.shields.io/badge/Java-%3E%3D8-red?logo=telegram)
+![Java](https://img.shields.io/badge/Java-%3E%3D8-red)
 ![Spring](https://img.shields.io/badge/Spring-%3E%3D5.0-green)
 ![Hibernate](https://img.shields.io/badge/Hibernate-%3E%3D5.0-yellowgreen)
 ![Maven](https://img.shields.io/badge/Maven-3-yellow)

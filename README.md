@@ -27,7 +27,7 @@
 9. [Pooh JMS (Concurrency, Sockets, Java IO, GSON)](https://github.com/saimon494/job4j_pooh)
 10. [Grabber (PostgreSQL, JDBC, Liquibase, Quartz, JSOUP)](https://github.com/saimon494/job4j_grabber)
 11. [Tracker (PostgreSQL, JDBC, Liquibase, JUnit4)](https://github.com/saimon494/job4j_tracker)
-12. [Zip, find utilities (Java IO, Java NIO)](https://github.com/saimon494/job4j_design/tree/main/chapter_002)
+12. [Zip, find utilities (Java IO, Java NIO)](https://github.com/saimon494/job4j_design)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=saimon494&hide=stars,prs,issues,contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saimon494&layout=compact)](https://github.com/saimon494/github-readme-stats)

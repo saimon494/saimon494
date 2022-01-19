@@ -3,7 +3,7 @@
 * Возраст - 34 года
 * Java программист
 * Город - Москва
-* Опыт разработки на Java - 1 год
+* Опыт разработки на Java - 1,5 года
 ## Основные технологии:
 ![Java](https://img.shields.io/badge/Java-%3E%3D8-red)
 ![Spring](https://img.shields.io/badge/Spring-%3E%3D5.0-green)

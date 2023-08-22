@@ -1,6 +1,6 @@
 ## Привет :hand:
 ## Обо мне:
-* Программирую на Java 1,5 года
+* Программирую на Java 3 года
 ## Основные технологии:
 ![Java](https://img.shields.io/badge/Java-%3E%3D8-red)
 ![Spring](https://img.shields.io/badge/Spring-%3E%3D5.0-green)
